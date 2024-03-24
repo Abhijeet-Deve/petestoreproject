@@ -1,0 +1,16 @@
+Types of Bootstrap
+1. Online CSS
+2. Offline CSS
+
+1. Online CSS:
+    copy online href path and put in html file
+
+2. Offline CSS:
+    Step 1:
+        download combine css and js zip file and unzip the file
+
+    Step 2:
+        ADD following files to project
+        1. bootstrap.min.css
+        2. bootstrap.min.js
+        3. propper.js
